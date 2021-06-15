@@ -71,8 +71,8 @@ sections:
   - type: cta_section
     title: COMMUNITY
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      If you'd like to donate to the Devs, send ETH, SHIB or LEASH here. Thank
+      you for your support! WOOF!
     actions:
       - label: Learn More
         url: /features
