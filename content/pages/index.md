@@ -74,8 +74,7 @@ sections:
       If you'd like to donate to the Devs, send ETH or BNB here. Thank you for
       your support!
     actions:
-      - label: Learn More
-        url: /features
+      - url: /features
         style: primary
     has_background: true
     background_color: gray
