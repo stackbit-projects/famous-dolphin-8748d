@@ -5,7 +5,7 @@ sections:
     title: Mirage Token
     subtitle: Decentralized Token that grew into a vibrant ecosystem
     actions:
-      - label: Learn More
+      - label: Presale
         url: /features
         style: primary
       - label: Contact Us
