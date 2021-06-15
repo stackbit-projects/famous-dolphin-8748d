@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Mirage Token
-    subtitle: Decentralized
+    subtitle: 'Decentralized Token ,'
     actions:
       - label: Learn More
         url: /features
