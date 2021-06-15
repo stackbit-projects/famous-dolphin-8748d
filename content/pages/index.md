@@ -71,8 +71,8 @@ sections:
   - type: cta_section
     title: COMMUNITY
     subtitle: >-
-      If you'd like to donate to the Devs, send ETH, SHIB or LEASH here. Thank
-      you for your support! WOOF!
+      If you'd like to donate to the Devs, send ETH or BNB here. Thank you for
+      your support!
     actions:
       - label: Learn More
         url: /features
