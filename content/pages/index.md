@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Mirage Token
-    subtitle: Decentralized Token that grew into a vibrant ecosistem
+    subtitle: Decentralized Token that grew into a vibrant ecosystem
     actions:
       - label: Learn More
         url: /features
